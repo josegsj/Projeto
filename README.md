@@ -18,11 +18,11 @@ JDK 1.8
 
 4-Descrição da funcionalidade:
 
-  Você vai precissar ter já as pastas "data/in" e "data/out" criardas dentro da pasta do teu usuario no sistema.
+  Você vai precisar ter já as pastas "data/in" e "data/out" criadas dentro da pasta do seu usuário no sistema.
   
-  A funcionalidade consiste em Pegar informações de arquivos.dat e Processalas para gerar um arquivo com o mesmo nome do arquivo de entrada mais  "_done.dat" com os criterios que o exercisio solicitava.
+  A funcionalidade consiste em Pegar informações de arquivos.dat e processá las para gerar um arquivo com o mesmo nome do arquivo de entrada mais  "_done.dat" com os critérios que o exercício solicitava.
   
-  Para aplicação funcinar você vai ter que ficar salvando arquivos .dat na pasta data/in se eles ja estiverem la não ira funcinar ,só funciona quando de colocar ou salva arquivos na pasta 
+  Para aplicação funcionar você vai ter que ficar salvando arquivos .dat na pasta data/in se eles já estiverem la não ira funcionar ,só vai funcionar  quando se colocar ou salva arquivos na pasta.
   
   O formato das informações do arquivo de saida é este:?ç?ç?ç?
   
