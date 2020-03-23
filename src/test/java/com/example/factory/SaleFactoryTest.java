@@ -1,4 +1,4 @@
-package com.exemple.factory;
+package com.example.factory;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
@@ -12,6 +12,8 @@ import org.junit.Test;
 
 import com.example.domain.Sale;
 import com.example.domain.SaleItem;
+import com.example.factory.EntityFactory;
+import com.example.factory.SaleFactory;
 
 import static org.junit.Assert.*;
 

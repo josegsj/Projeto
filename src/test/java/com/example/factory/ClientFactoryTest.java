@@ -1,4 +1,4 @@
-package com.exemple.factory;
+package com.example.factory;
 
 import org.junit.After;
 import org.junit.AfterClass;
@@ -7,6 +7,8 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import com.example.domain.Client;
+import com.example.factory.ClientFactory;
+import com.example.factory.EntityFactory;
 
 import static org.junit.Assert.*;
 

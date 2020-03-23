@@ -1,4 +1,4 @@
-package com.exemple.factory;
+package com.example.factory;
 
 import java.math.BigDecimal;
 import org.junit.After;
@@ -8,6 +8,8 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import com.example.domain.SaleItem;
+import com.example.factory.EntityFactory;
+import com.example.factory.SaleItemFactory;
 
 import static org.junit.Assert.*;
 

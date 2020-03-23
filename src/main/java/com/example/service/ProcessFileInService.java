@@ -1,4 +1,4 @@
-package com.exemple.service;
+package com.example.service;
 
 import java.security.InvalidParameterException;
 import java.util.ArrayList;
@@ -10,10 +10,10 @@ import org.springframework.stereotype.Service;
 import com.example.domain.Client;
 import com.example.domain.Sale;
 import com.example.domain.Salesman;
-import com.exemple.factory.ClientFactory;
-import com.exemple.factory.EntityFactory;
-import com.exemple.factory.SaleFactory;
-import com.exemple.factory.SalesmanFactory;
+import com.example.factory.ClientFactory;
+import com.example.factory.EntityFactory;
+import com.example.factory.SaleFactory;
+import com.example.factory.SalesmanFactory;
 
 @Service
 public class ProcessFileInService {
