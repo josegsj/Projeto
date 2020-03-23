@@ -8,6 +8,8 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import com.example.domain.Salesman;
+import com.example.factory.EntityFactory;
+import com.example.factory.SalesmanFactory;
 
 import static org.junit.Assert.*;
 

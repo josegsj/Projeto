@@ -1,4 +1,4 @@
-package com.exemple.factory;
+package com.example.factory;
 
 import com.example.domain.Client;
 import com.example.domain.Entity;

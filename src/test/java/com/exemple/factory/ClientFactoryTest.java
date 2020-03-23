@@ -7,6 +7,8 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import com.example.domain.Client;
+import com.example.factory.ClientFactory;
+import com.example.factory.EntityFactory;
 
 import static org.junit.Assert.*;
 
