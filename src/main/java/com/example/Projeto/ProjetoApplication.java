@@ -22,7 +22,6 @@ import com.example.service.MakeFileOutService;
 import com.example.service.ProcessFileInService;
 
 public class ProjetoApplication {
-
 	
 	public static void main(String[] args)  throws IOException, InterruptedException  {
 		 SpringApplication.run(ProjetoApplication.class, args); 
@@ -84,7 +83,4 @@ public class ProjetoApplication {
       		 writer.write(fileResult);
          }
       }
-
-	
-
 }
