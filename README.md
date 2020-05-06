@@ -26,7 +26,6 @@ JDK 1.8
   
   O formato das informações do arquivo de saida é este:?ç?ç?ç?
   
-  Link do exercicio:https://github.com/rh-southsystem/desafio-backend-arquivo
   
   5-Excução:
     Você deve executar Run ass -> java application no arqivo ProjetoApplication.java no packet com.example.Projeto para Aplicação funcionar e você conseguir testar a aplicação.
